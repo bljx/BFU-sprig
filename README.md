@@ -27,7 +27,7 @@
 | Name | RSS | HTML |
 | --   | --  | --   |
 | 桑安琪 | https://blog.csdn.net/sanganqi_wusuierzi/rss/list | https://blog.csdn.net/sanganqi_wusuierzi |
-| MU001999 |  | http://www.jusot.com/users/mu001999 |
+| MU001999 |  | http://mu00.jusot.com |
 | cyyzero |  | https://cyyzero.github.io/  https://cyyzero.herokuapp.com/ |
 
 
