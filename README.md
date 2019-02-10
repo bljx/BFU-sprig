@@ -28,6 +28,6 @@
 | --   | --  | --   |
 | 桑安琪 | https://blog.csdn.net/sanganqi_wusuierzi/rss/list | https://blog.csdn.net/sanganqi_wusuierzi |
 | MU001999 |  | http://www.jusot.com/users/mu001999 |
-| cyyzero |  | https://cyyzero.github.io/ and https://cyyzero.herokuapp.com/ |
+| cyyzero |  | https://cyyzero.github.io/  https://cyyzero.herokuapp.com/ |
 
 
