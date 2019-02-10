@@ -26,8 +26,10 @@
 
 | Name | RSS | HTML |
 | --   | --  | --   |
-| 桑安琪 | https://blog.csdn.net/sanganqi_wusuierzi/rss/list | https://blog.csdn.net/sanganqi_wusuierzi |
-| MU001999 |  | http://mu00.jusot.com |
-| cyyzero |  | https://cyyzero.github.io/  https://cyyzero.herokuapp.com/ |
+| 桑安琪的成长之路 | https://blog.csdn.net/sanganqi_wusuierzi/rss/list | https://blog.csdn.net/sanganqi_wusuierzi |
+| MU001999's竹所 |  | http://mu00.jusot.com |
+| cyyzero's BNB |  | https://cyyzero.github.io/  https://cyyzero.herokuapp.com/ |
+| lllulu's blog |  | http://lllulu.cf/ |
+| bbbob's blog |  | http://bbbob.win |
 
 
