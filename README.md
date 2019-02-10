@@ -2,7 +2,7 @@
 北京林业大学blog收集
 
 北林计算机与网络协会收集的周围同学们的Blog
-
+有意参与直接编辑的同学可以发issue加入teams/collaborators.
 ## 来源
  [清华大学TUNA协会blog收集](https://github.com/tuna/blogroll)
    由[yiran7324](https://github.com/yiran7324)在[BFU-leaf](https://github.com/bljx/BFU-leaf)的issue中提出
@@ -28,8 +28,9 @@
 | --   | --  | --   |
 | 桑安琪的成长之路 | https://blog.csdn.net/sanganqi_wusuierzi/rss/list | https://blog.csdn.net/sanganqi_wusuierzi |
 | MU001999's竹所 |  | http://mu00.jusot.com |
-| cyyzero's BNB |  | https://cyyzero.github.io/  https://cyyzero.herokuapp.com/ |
-| lllulu's blog |  | http://lllulu.cf/ |
+| cyyzero's BNB |  | https://cyyzero.github.io  https://cyyzero.herokuapp.com |
+| lllulu's blog |  | http://lllulu.cf |
 | bbbob's blog |  | http://bbbob.win |
+| JaimeOwens's blog |  | http://www.jaimeowens.cn |
 
 
