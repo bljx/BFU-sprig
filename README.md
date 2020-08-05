@@ -27,7 +27,7 @@
 | Name | RSS | HTML |
 | --   | --  | --   |
 | 桑安琪的成长之路 | https://blog.csdn.net/sanganqi_wusuierzi/rss/list | https://blog.csdn.net/sanganqi_wusuierzi |
-| MU001999's 竹所 |  | http://mu00.jusot.com |
+| Mu00's Blog | https://mu00.jusot.com/atom.xml | https://mu00.jusot.com |
 | cyyzero's BNB |  | https://cyyzero.github.io  https://cyyzero.herokuapp.com |
 | lllulu's blog |  | http://lllulu.cf |
 | bbbob's blog |  | http://bbbob.win |
