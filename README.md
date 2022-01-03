@@ -31,7 +31,7 @@
 | cyyzero's BNB |  | https://cyyzero.github.io  https://cyyzero.herokuapp.com |
 | lllulu's blog |  | http://lllulu.cf |
 | bbbob's blog |  | http://bbbob.win |
-| JaimeOwens's blog |  | http://www.jaimeowens.cn |
+| JamieOw's blog |  | https://www.zhihu.com/people/ou-rui-ning/posts |
 | Ck's Blog |  | https://chenkai.tk |
 | zsben's Blog |  | https://www.cnblogs.com/zsben991126/ |
 | 仰望星空的先生's Blog |  | https://www.jianshu.com/u/aeb5c735d8de |
